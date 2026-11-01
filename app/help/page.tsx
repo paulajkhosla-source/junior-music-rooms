@@ -1,0 +1,4 @@
+import { requireSession } from '@/lib/auth';
+import { Nav } from '@/components/Nav';
+export const dynamic='force-dynamic';
+export default async function Help(){const s=await requireSession();return <><Nav session={s}/><main className="page narrow"><p className="eyebrow">A QUICK GUIDE</p><h1>How it works</h1><div className="content-card"><h2>For teachers</h2><p>After finalising SOCS on Friday, open My week and release any rooms you no longer need. You can also release a single slot or your whole day from the booking sheet.</p><p>Tap a free slot to claim it for the week. To swap, open one of your bookings and propose a swap with another teacher. They can accept or decline your request.</p><h2>For music admin</h2><p>Edit the regular rota when the normal schedule changes, and create weeks from the admin page. Weekly changes stay in place when the regular rota changes.</p></div></main></>}

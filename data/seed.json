@@ -1,0 +1,5413 @@
+{
+ "title": "Junior Music Teaching Rooms",
+ "term": "Michaelmas 2026",
+ "days": [
+  "MON",
+  "TUE",
+  "WED",
+  "THU",
+  "FRI"
+ ],
+ "rooms": [
+  "JS MP1",
+  "JS MP2",
+  "JS MP3",
+  "JS MP4",
+  "JS MP5",
+  "JS MP6",
+  "JS MP7"
+ ],
+ "slots": [
+  "08:00",
+  "08:30",
+  "09:00",
+  "09:30",
+  "10:00",
+  "10:30",
+  "11:00",
+  "11:30",
+  "12:00",
+  "12:30",
+  "13:00",
+  "13:30",
+  "14:00",
+  "14:30",
+  "15:00"
+ ],
+ "lunchSlot": "12:00",
+ "slotMinutes": 30,
+ "teachers": [
+  "A Lazenby",
+  "A O'Sullivan",
+  "A Pollock",
+  "D Bailey",
+  "D Black",
+  "D James",
+  "E Keventsidou",
+  "F Di Bari",
+  "H Evans",
+  "H Hignell",
+  "J Brits",
+  "J Hall",
+  "J Hancher",
+  "J Kreling",
+  "J O'Leary",
+  "L Bode",
+  "L Linley",
+  "L Vincent",
+  "M Campbell",
+  "M Croston",
+  "M Wyllie",
+  "N Peters",
+  "R Cohen",
+  "S Beck",
+  "S Holmes",
+  "S Jones",
+  "S Thompson",
+  "T Wells",
+  "V Lucas-Smith",
+  "Z Ashcroft"
+ ],
+ "labels": [
+  "Harp Practice",
+  "Dble Bass Practice",
+  "JS PianoTrio 1"
+ ],
+ "original": [
+  {
+   "day": "MON",
+   "room": "JS MP1",
+   "slot": "09:00",
+   "name": "L Linley"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP1",
+   "slot": "09:30",
+   "name": "L Linley"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP1",
+   "slot": "10:00",
+   "name": "L Linley"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP1",
+   "slot": "10:30",
+   "name": "L Linley"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP1",
+   "slot": "11:00",
+   "name": "L Linley"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP1",
+   "slot": "11:30",
+   "name": "L Linley"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP1",
+   "slot": "12:30",
+   "name": "D Bailey"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP1",
+   "slot": "13:00",
+   "name": "D Bailey"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP1",
+   "slot": "13:30",
+   "name": "D Bailey"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP1",
+   "slot": "14:00",
+   "name": "D Bailey"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP1",
+   "slot": "14:30",
+   "name": "D Bailey"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP1",
+   "slot": "15:00",
+   "name": "D Bailey"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP2",
+   "slot": "08:00",
+   "name": "Z Ashcroft"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP2",
+   "slot": "08:30",
+   "name": "Z Ashcroft"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP2",
+   "slot": "09:00",
+   "name": "Z Ashcroft"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP2",
+   "slot": "09:30",
+   "name": "Z Ashcroft"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP2",
+   "slot": "10:00",
+   "name": "Z Ashcroft"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP2",
+   "slot": "10:30",
+   "name": "Z Ashcroft"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP2",
+   "slot": "11:00",
+   "name": "Z Ashcroft"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP2",
+   "slot": "11:30",
+   "name": "Z Ashcroft"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP2",
+   "slot": "12:30",
+   "name": "Z Ashcroft"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP2",
+   "slot": "13:00",
+   "name": "Z Ashcroft"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP2",
+   "slot": "13:30",
+   "name": "Z Ashcroft"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP2",
+   "slot": "14:00",
+   "name": "Z Ashcroft"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP2",
+   "slot": "14:30",
+   "name": "Z Ashcroft"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP2",
+   "slot": "15:00",
+   "name": "Z Ashcroft"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP3",
+   "slot": "08:00",
+   "name": "S Thompson"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP3",
+   "slot": "08:30",
+   "name": "S Thompson"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP3",
+   "slot": "09:00",
+   "name": "S Thompson"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP3",
+   "slot": "09:30",
+   "name": "S Thompson"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP3",
+   "slot": "10:00",
+   "name": "S Thompson"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP3",
+   "slot": "10:30",
+   "name": "S Thompson"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP3",
+   "slot": "11:00",
+   "name": "S Thompson"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP3",
+   "slot": "11:30",
+   "name": "S Thompson"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP3",
+   "slot": "12:30",
+   "name": "S Thompson"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP3",
+   "slot": "13:00",
+   "name": "S Thompson"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP3",
+   "slot": "13:30",
+   "name": "S Thompson"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP3",
+   "slot": "14:00",
+   "name": "S Thompson"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP3",
+   "slot": "14:30",
+   "name": "S Thompson"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP3",
+   "slot": "15:00",
+   "name": "S Thompson"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP4",
+   "slot": "08:00",
+   "name": "R Cohen"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP4",
+   "slot": "08:30",
+   "name": "R Cohen"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP4",
+   "slot": "09:00",
+   "name": "R Cohen"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP4",
+   "slot": "09:30",
+   "name": "R Cohen"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP4",
+   "slot": "10:00",
+   "name": "R Cohen"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP4",
+   "slot": "10:30",
+   "name": "R Cohen"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP4",
+   "slot": "11:00",
+   "name": "R Cohen"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP4",
+   "slot": "11:30",
+   "name": "R Cohen"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP4",
+   "slot": "12:30",
+   "name": "T Wells"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP4",
+   "slot": "13:00",
+   "name": "T Wells"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP4",
+   "slot": "13:30",
+   "name": "T Wells"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP4",
+   "slot": "14:00",
+   "name": "T Wells"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP4",
+   "slot": "14:30",
+   "name": "T Wells"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP4",
+   "slot": "15:00",
+   "name": "T Wells"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP5",
+   "slot": "08:00",
+   "name": "Harp Practice"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP5",
+   "slot": "08:30",
+   "name": "Harp Practice"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP5",
+   "slot": "09:00",
+   "name": "D James"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP5",
+   "slot": "09:30",
+   "name": "D James"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP5",
+   "slot": "10:00",
+   "name": "D James"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP5",
+   "slot": "10:30",
+   "name": "D James"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP5",
+   "slot": "11:00",
+   "name": "D James"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP5",
+   "slot": "11:30",
+   "name": "D James"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP5",
+   "slot": "12:30",
+   "name": "D James"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP5",
+   "slot": "13:00",
+   "name": "D James"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP5",
+   "slot": "13:30",
+   "name": "D James"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP5",
+   "slot": "14:00",
+   "name": "D James"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP5",
+   "slot": "14:30",
+   "name": "D James"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP5",
+   "slot": "15:00",
+   "name": "D James"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP6",
+   "slot": "08:00",
+   "name": "Dble Bass Practice"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP6",
+   "slot": "08:30",
+   "name": "Dble Bass Practice"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP6",
+   "slot": "09:00",
+   "name": "T Wells"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP6",
+   "slot": "09:30",
+   "name": "T Wells"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP6",
+   "slot": "10:00",
+   "name": "T Wells"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP6",
+   "slot": "10:30",
+   "name": "T Wells"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP6",
+   "slot": "11:00",
+   "name": "T Wells"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP6",
+   "slot": "11:30",
+   "name": "T Wells"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP7",
+   "slot": "12:30",
+   "name": "J Hancher"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP7",
+   "slot": "13:00",
+   "name": "L Bode"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP7",
+   "slot": "13:30",
+   "name": "L Bode"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP7",
+   "slot": "14:00",
+   "name": "L Bode"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP7",
+   "slot": "14:30",
+   "name": "L Bode"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP7",
+   "slot": "15:00",
+   "name": "L Bode"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP1",
+   "slot": "09:00",
+   "name": "D Bailey"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP1",
+   "slot": "09:30",
+   "name": "D Bailey"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP1",
+   "slot": "10:00",
+   "name": "D Bailey"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP1",
+   "slot": "10:30",
+   "name": "D Bailey"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP1",
+   "slot": "11:00",
+   "name": "D Bailey"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP1",
+   "slot": "11:30",
+   "name": "D Bailey"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP1",
+   "slot": "12:30",
+   "name": "D Bailey"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP1",
+   "slot": "13:00",
+   "name": "D Bailey"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP1",
+   "slot": "13:30",
+   "name": "D Bailey"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP1",
+   "slot": "14:00",
+   "name": "D Bailey"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP1",
+   "slot": "14:30",
+   "name": "D Bailey"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP1",
+   "slot": "15:00",
+   "name": "D Bailey"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP2",
+   "slot": "08:00",
+   "name": "M Croston"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP2",
+   "slot": "08:30",
+   "name": "M Croston"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP2",
+   "slot": "09:00",
+   "name": "M Croston"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP2",
+   "slot": "09:30",
+   "name": "M Croston"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP2",
+   "slot": "10:00",
+   "name": "M Croston"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP2",
+   "slot": "10:30",
+   "name": "M Croston"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP2",
+   "slot": "11:00",
+   "name": "M Croston"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP2",
+   "slot": "11:30",
+   "name": "M Croston"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP2",
+   "slot": "12:30",
+   "name": "M Croston"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP2",
+   "slot": "13:00",
+   "name": "M Croston"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP2",
+   "slot": "13:30",
+   "name": "M Croston"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP2",
+   "slot": "14:00",
+   "name": "M Croston"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP2",
+   "slot": "14:30",
+   "name": "M Croston"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP2",
+   "slot": "15:00",
+   "name": "M Croston"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP3",
+   "slot": "09:00",
+   "name": "T Wells"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP3",
+   "slot": "09:30",
+   "name": "T Wells"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP3",
+   "slot": "10:00",
+   "name": "T Wells"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP3",
+   "slot": "10:30",
+   "name": "T Wells"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP3",
+   "slot": "11:00",
+   "name": "T Wells"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP3",
+   "slot": "11:30",
+   "name": "T Wells"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP3",
+   "slot": "12:30",
+   "name": "L Vincent"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP3",
+   "slot": "13:00",
+   "name": "L Vincent"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP3",
+   "slot": "13:30",
+   "name": "L Vincent"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP3",
+   "slot": "14:00",
+   "name": "L Vincent"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP3",
+   "slot": "14:30",
+   "name": "L Vincent"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP3",
+   "slot": "15:00",
+   "name": "L Vincent"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP4",
+   "slot": "08:00",
+   "name": "N Peters"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP4",
+   "slot": "08:30",
+   "name": "N Peters"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP4",
+   "slot": "09:00",
+   "name": "N Peters"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP4",
+   "slot": "09:30",
+   "name": "N Peters"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP4",
+   "slot": "10:00",
+   "name": "N Peters"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP4",
+   "slot": "10:30",
+   "name": "N Peters"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP4",
+   "slot": "11:00",
+   "name": "N Peters"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP4",
+   "slot": "11:30",
+   "name": "N Peters"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP4",
+   "slot": "12:30",
+   "name": "N Peters"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP4",
+   "slot": "13:00",
+   "name": "N Peters"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP4",
+   "slot": "13:30",
+   "name": "N Peters"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP4",
+   "slot": "14:00",
+   "name": "N Peters"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP4",
+   "slot": "14:30",
+   "name": "N Peters"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP4",
+   "slot": "15:00",
+   "name": "N Peters"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP5",
+   "slot": "08:00",
+   "name": "A Pollock"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP5",
+   "slot": "08:30",
+   "name": "A Pollock"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP5",
+   "slot": "09:00",
+   "name": "A Pollock/S Beck"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP5",
+   "slot": "09:30",
+   "name": "A Pollock/S Beck"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP5",
+   "slot": "10:00",
+   "name": "A Pollock/S Beck"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP5",
+   "slot": "10:30",
+   "name": "A Pollock/S Beck"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP5",
+   "slot": "11:00",
+   "name": "A Pollock/S Beck"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP5",
+   "slot": "11:30",
+   "name": "A Pollock/S Beck"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP5",
+   "slot": "12:30",
+   "name": "S Beck"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP5",
+   "slot": "13:00",
+   "name": "S Beck"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP5",
+   "slot": "13:30",
+   "name": "S Beck"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP5",
+   "slot": "14:00",
+   "name": "S Beck"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP5",
+   "slot": "14:30",
+   "name": "S Beck"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP5",
+   "slot": "15:00",
+   "name": "S Beck"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP6",
+   "slot": "09:00",
+   "name": "J O'Leary"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP6",
+   "slot": "09:30",
+   "name": "J O'Leary"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP6",
+   "slot": "10:00",
+   "name": "J O'Leary"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP6",
+   "slot": "10:30",
+   "name": "J O'Leary"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP6",
+   "slot": "11:00",
+   "name": "J O'Leary"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP6",
+   "slot": "11:30",
+   "name": "J O'Leary"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP6",
+   "slot": "12:30",
+   "name": "Z Ashcroft"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP6",
+   "slot": "13:00",
+   "name": "Z Ashcroft"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP6",
+   "slot": "13:30",
+   "name": "J O'Leary"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP6",
+   "slot": "14:00",
+   "name": "J O'Leary"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP6",
+   "slot": "14:30",
+   "name": "J O'Leary"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP6",
+   "slot": "15:00",
+   "name": "J O'Leary"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP7",
+   "slot": "08:00",
+   "name": "Z Ashcroft"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP7",
+   "slot": "08:30",
+   "name": "Z Ashcroft"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP7",
+   "slot": "09:00",
+   "name": "Z Ashcroft"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP7",
+   "slot": "09:30",
+   "name": "Z Ashcroft"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP7",
+   "slot": "10:00",
+   "name": "Z Ashcroft"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP7",
+   "slot": "10:30",
+   "name": "Z Ashcroft"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP7",
+   "slot": "11:00",
+   "name": "Z Ashcroft"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP7",
+   "slot": "11:30",
+   "name": "Z Ashcroft"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP7",
+   "slot": "13:00",
+   "name": "J Hall"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP7",
+   "slot": "13:30",
+   "name": "J Hall"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP7",
+   "slot": "14:00",
+   "name": "J Hall"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP7",
+   "slot": "14:30",
+   "name": "Z Ashcroft"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP7",
+   "slot": "15:00",
+   "name": "Z Ashcroft"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP1",
+   "slot": "08:00",
+   "name": "F Di Bari"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP1",
+   "slot": "08:30",
+   "name": "F Di Bari"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP1",
+   "slot": "09:00",
+   "name": "F Di Bari"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP1",
+   "slot": "09:30",
+   "name": "F Di Bari"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP1",
+   "slot": "10:00",
+   "name": "F Di Bari"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP1",
+   "slot": "10:30",
+   "name": "F Di Bari"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP1",
+   "slot": "11:00",
+   "name": "F Di Bari"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP1",
+   "slot": "11:30",
+   "name": "F Di Bari"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP1",
+   "slot": "12:30",
+   "name": "Z Ashcroft"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP1",
+   "slot": "13:00",
+   "name": "Z Ashcroft"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP1",
+   "slot": "13:30",
+   "name": "Z Ashcroft"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP1",
+   "slot": "14:00",
+   "name": "Z Ashcroft"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP1",
+   "slot": "14:30",
+   "name": "Z Ashcroft"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP1",
+   "slot": "15:00",
+   "name": "Z Ashcroft"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP2",
+   "slot": "08:00",
+   "name": "S Holmes"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP2",
+   "slot": "08:30",
+   "name": "S Holmes"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP2",
+   "slot": "09:00",
+   "name": "S Holmes"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP2",
+   "slot": "09:30",
+   "name": "S Holmes"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP2",
+   "slot": "10:00",
+   "name": "S Holmes"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP2",
+   "slot": "10:30",
+   "name": "S Holmes"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP2",
+   "slot": "11:00",
+   "name": "S Holmes"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP2",
+   "slot": "11:30",
+   "name": "S Holmes"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP2",
+   "slot": "12:30",
+   "name": "JS PianoTrio 1"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP2",
+   "slot": "13:00",
+   "name": "S Holmes"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP2",
+   "slot": "13:30",
+   "name": "S Holmes"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP2",
+   "slot": "14:00",
+   "name": "S Holmes"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP2",
+   "slot": "14:30",
+   "name": "F Di Bari"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP2",
+   "slot": "15:00",
+   "name": "F Di Bari"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP3",
+   "slot": "09:00",
+   "name": "S Thompson"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP3",
+   "slot": "09:30",
+   "name": "S Thompson"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP3",
+   "slot": "10:00",
+   "name": "S Thompson"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP3",
+   "slot": "10:30",
+   "name": "S Thompson"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP3",
+   "slot": "11:00",
+   "name": "S Thompson"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP3",
+   "slot": "11:30",
+   "name": "S Thompson"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP3",
+   "slot": "12:30",
+   "name": "S Thompson"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP3",
+   "slot": "13:00",
+   "name": "S Thompson"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP3",
+   "slot": "13:30",
+   "name": "S Thompson"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP3",
+   "slot": "14:00",
+   "name": "S Thompson"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP3",
+   "slot": "14:30",
+   "name": "S Thompson"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP3",
+   "slot": "15:00",
+   "name": "S Thompson"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP4",
+   "slot": "09:00",
+   "name": "J Brits"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP4",
+   "slot": "09:30",
+   "name": "J Brits"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP4",
+   "slot": "10:00",
+   "name": "J Brits"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP4",
+   "slot": "10:30",
+   "name": "J Brits"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP4",
+   "slot": "11:00",
+   "name": "J Brits"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP4",
+   "slot": "11:30",
+   "name": "J Brits"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP4",
+   "slot": "12:30",
+   "name": "J Brits"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP4",
+   "slot": "13:00",
+   "name": "J Brits"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP4",
+   "slot": "13:30",
+   "name": "J Brits"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP4",
+   "slot": "14:00",
+   "name": "J Brits"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP4",
+   "slot": "14:30",
+   "name": "S Holmes"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP4",
+   "slot": "15:00",
+   "name": "S Holmes"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP5",
+   "slot": "08:00",
+   "name": "H Hignell"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP5",
+   "slot": "08:30",
+   "name": "H Hignell"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP5",
+   "slot": "09:00",
+   "name": "H Hignell"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP5",
+   "slot": "09:30",
+   "name": "H Hignell"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP5",
+   "slot": "10:00",
+   "name": "H Hignell"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP5",
+   "slot": "10:30",
+   "name": "H Hignell"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP5",
+   "slot": "11:00",
+   "name": "H Hignell"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP5",
+   "slot": "11:30",
+   "name": "H Hignell"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP5",
+   "slot": "12:30",
+   "name": "A Lazenby"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP5",
+   "slot": "13:00",
+   "name": "A Lazenby"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP5",
+   "slot": "13:30",
+   "name": "A Lazenby"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP5",
+   "slot": "14:00",
+   "name": "A Lazenby"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP5",
+   "slot": "14:30",
+   "name": "A Lazenby"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP5",
+   "slot": "15:00",
+   "name": "A Lazenby"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP6",
+   "slot": "08:00",
+   "name": "A Lazenby"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP6",
+   "slot": "08:30",
+   "name": "A Lazenby"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP6",
+   "slot": "09:00",
+   "name": "A Lazenby"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP6",
+   "slot": "09:30",
+   "name": "A Lazenby"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP6",
+   "slot": "10:00",
+   "name": "A Lazenby"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP6",
+   "slot": "10:30",
+   "name": "A O'Sullivan"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP6",
+   "slot": "11:00",
+   "name": "A O'Sullivan"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP6",
+   "slot": "11:30",
+   "name": "A O'Sullivan"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP6",
+   "slot": "12:30",
+   "name": "A O'Sullivan"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP6",
+   "slot": "13:00",
+   "name": "A O'Sullivan"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP6",
+   "slot": "13:30",
+   "name": "A O'Sullivan"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP6",
+   "slot": "14:00",
+   "name": "A O'Sullivan"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP6",
+   "slot": "14:30",
+   "name": "A O'Sullivan"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP6",
+   "slot": "15:00",
+   "name": "A O'Sullivan"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP7",
+   "slot": "08:30",
+   "name": "H Evans"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP7",
+   "slot": "09:00",
+   "name": "H Evans"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP7",
+   "slot": "09:30",
+   "name": "H Evans"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP7",
+   "slot": "10:00",
+   "name": "H Evans"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP7",
+   "slot": "10:30",
+   "name": "H Evans"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP7",
+   "slot": "11:00",
+   "name": "H Evans"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP7",
+   "slot": "11:30",
+   "name": "H Evans"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP7",
+   "slot": "12:30",
+   "name": "H Evans"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP7",
+   "slot": "13:00",
+   "name": "H Evans"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP7",
+   "slot": "13:30",
+   "name": "H Evans"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP7",
+   "slot": "14:00",
+   "name": "H Evans"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP7",
+   "slot": "14:30",
+   "name": "H Evans"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP7",
+   "slot": "15:00",
+   "name": "H Evans"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP1",
+   "slot": "08:00",
+   "name": "S Jones"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP1",
+   "slot": "08:30",
+   "name": "S Jones"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP1",
+   "slot": "09:00",
+   "name": "S Jones"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP1",
+   "slot": "09:30",
+   "name": "S Jones"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP1",
+   "slot": "10:00",
+   "name": "S Jones"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP1",
+   "slot": "10:30",
+   "name": "S Jones"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP1",
+   "slot": "11:00",
+   "name": "S Jones"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP1",
+   "slot": "11:30",
+   "name": "S Jones"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP1",
+   "slot": "12:30",
+   "name": "F Di Bari"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP1",
+   "slot": "13:00",
+   "name": "F Di Bari"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP1",
+   "slot": "13:30",
+   "name": "F Di Bari"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP1",
+   "slot": "14:00",
+   "name": "F Di Bari"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP1",
+   "slot": "14:30",
+   "name": "F Di Bari"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP1",
+   "slot": "15:00",
+   "name": "F Di Bari"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP2",
+   "slot": "08:00",
+   "name": "F Di Bari"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP2",
+   "slot": "08:30",
+   "name": "F Di Bari"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP2",
+   "slot": "09:00",
+   "name": "F Di Bari"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP2",
+   "slot": "09:30",
+   "name": "F Di Bari"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP2",
+   "slot": "10:00",
+   "name": "F Di Bari"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP2",
+   "slot": "10:30",
+   "name": "F Di Bari"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP2",
+   "slot": "11:00",
+   "name": "F Di Bari"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP2",
+   "slot": "11:30",
+   "name": "F Di Bari"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP2",
+   "slot": "12:30",
+   "name": "J Kreling"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP2",
+   "slot": "13:00",
+   "name": "J Kreling"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP2",
+   "slot": "13:30",
+   "name": "J Kreling"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP2",
+   "slot": "14:00",
+   "name": "J Kreling"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP2",
+   "slot": "14:30",
+   "name": "J Kreling"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP2",
+   "slot": "15:00",
+   "name": "J Kreling"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP3",
+   "slot": "08:30",
+   "name": "M Wyllie"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP3",
+   "slot": "09:00",
+   "name": "M Wyllie"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP3",
+   "slot": "09:30",
+   "name": "M Wyllie"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP3",
+   "slot": "10:00",
+   "name": "J Hancher"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP3",
+   "slot": "10:30",
+   "name": "J Hancher"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP3",
+   "slot": "11:00",
+   "name": "J Hancher"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP3",
+   "slot": "11:30",
+   "name": "J Hancher"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP3",
+   "slot": "12:30",
+   "name": "J Hancher"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP3",
+   "slot": "13:00",
+   "name": "J Hancher"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP3",
+   "slot": "13:30",
+   "name": "J Hancher"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP3",
+   "slot": "14:00",
+   "name": "J Hancher"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP3",
+   "slot": "14:30",
+   "name": "J Hancher"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP3",
+   "slot": "15:00",
+   "name": "J Hancher"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP4",
+   "slot": "08:00",
+   "name": "D Black"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP4",
+   "slot": "08:30",
+   "name": "D Black"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP4",
+   "slot": "09:00",
+   "name": "D Black"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP4",
+   "slot": "09:30",
+   "name": "D Black"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP4",
+   "slot": "10:00",
+   "name": "D Black"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP4",
+   "slot": "10:30",
+   "name": "D Black"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP4",
+   "slot": "11:00",
+   "name": "D Black"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP4",
+   "slot": "11:30",
+   "name": "D Black"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP4",
+   "slot": "12:30",
+   "name": "D Black"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP4",
+   "slot": "13:00",
+   "name": "D Black"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP4",
+   "slot": "13:30",
+   "name": "D Black"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP4",
+   "slot": "14:00",
+   "name": "D Black"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP4",
+   "slot": "14:30",
+   "name": "D Black"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP4",
+   "slot": "15:00",
+   "name": "D Black"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP5",
+   "slot": "09:30",
+   "name": "V Lucas-Smith"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP5",
+   "slot": "10:00",
+   "name": "V Lucas-Smith"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP5",
+   "slot": "10:30",
+   "name": "V Lucas-Smith"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP5",
+   "slot": "11:00",
+   "name": "V Lucas-Smith"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP5",
+   "slot": "11:30",
+   "name": "V Lucas-Smith"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP5",
+   "slot": "13:30",
+   "name": "V Lucas-Smith"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP5",
+   "slot": "14:00",
+   "name": "V Lucas-Smith"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP5",
+   "slot": "14:30",
+   "name": "E Keventsidou"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP6",
+   "slot": "09:00",
+   "name": "J O'Leary"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP6",
+   "slot": "09:30",
+   "name": "J O'Leary"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP6",
+   "slot": "10:00",
+   "name": "J O'Leary"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP6",
+   "slot": "10:30",
+   "name": "J O'Leary"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP6",
+   "slot": "11:00",
+   "name": "J O'Leary"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP6",
+   "slot": "11:30",
+   "name": "J O'Leary"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP6",
+   "slot": "12:30",
+   "name": "E Keventsidou"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP6",
+   "slot": "13:00",
+   "name": "E Keventsidou"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP6",
+   "slot": "13:30",
+   "name": "E Keventsidou"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP6",
+   "slot": "14:00",
+   "name": "J O'Leary"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP6",
+   "slot": "14:30",
+   "name": "J O'Leary"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP6",
+   "slot": "15:00",
+   "name": "J O'Leary"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP7",
+   "slot": "08:30",
+   "name": "J Kreling"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP7",
+   "slot": "09:00",
+   "name": "J Kreling"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP7",
+   "slot": "09:30",
+   "name": "J Kreling"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP7",
+   "slot": "10:00",
+   "name": "J Kreling"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP7",
+   "slot": "10:30",
+   "name": "J Kreling"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP7",
+   "slot": "11:00",
+   "name": "J Kreling"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP7",
+   "slot": "11:30",
+   "name": "J Kreling"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP7",
+   "slot": "12:30",
+   "name": "S Jones"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP7",
+   "slot": "13:00",
+   "name": "S Jones"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP7",
+   "slot": "13:30",
+   "name": "S Jones"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP7",
+   "slot": "14:00",
+   "name": "S Jones"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP7",
+   "slot": "14:30",
+   "name": "S Jones"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP7",
+   "slot": "15:00",
+   "name": "S Jones"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP1",
+   "slot": "08:00",
+   "name": "M Wyllie"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP1",
+   "slot": "08:30",
+   "name": "M Wyllie"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP1",
+   "slot": "09:00",
+   "name": "M Wyllie"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP1",
+   "slot": "09:30",
+   "name": "M Wyllie"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP1",
+   "slot": "10:00",
+   "name": "M Wyllie"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP1",
+   "slot": "10:30",
+   "name": "M Wyllie"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP1",
+   "slot": "11:00",
+   "name": "M Wyllie"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP1",
+   "slot": "11:30",
+   "name": "M Wyllie"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP1",
+   "slot": "12:30",
+   "name": "M Wyllie"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP1",
+   "slot": "13:00",
+   "name": "M Wyllie"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP1",
+   "slot": "13:30",
+   "name": "M Wyllie"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP1",
+   "slot": "14:00",
+   "name": "M Wyllie"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP1",
+   "slot": "14:30",
+   "name": "M Wyllie"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP1",
+   "slot": "15:00",
+   "name": "M Wyllie"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP2",
+   "slot": "08:00",
+   "name": "N Peters"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP2",
+   "slot": "08:30",
+   "name": "N Peters"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP2",
+   "slot": "09:00",
+   "name": "N Peters"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP2",
+   "slot": "09:30",
+   "name": "N Peters"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP2",
+   "slot": "10:00",
+   "name": "N Peters"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP2",
+   "slot": "10:30",
+   "name": "N Peters"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP2",
+   "slot": "11:00",
+   "name": "N Peters"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP2",
+   "slot": "11:30",
+   "name": "N Peters"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP2",
+   "slot": "12:30",
+   "name": "N Peters"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP2",
+   "slot": "13:00",
+   "name": "N Peters"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP2",
+   "slot": "13:30",
+   "name": "N Peters"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP2",
+   "slot": "14:00",
+   "name": "N Peters"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP2",
+   "slot": "14:30",
+   "name": "N Peters"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP2",
+   "slot": "15:00",
+   "name": "N Peters"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP3",
+   "slot": "08:00",
+   "name": "H Hignell"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP3",
+   "slot": "08:30",
+   "name": "H Hignell"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP3",
+   "slot": "09:00",
+   "name": "H Hignell"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP3",
+   "slot": "09:30",
+   "name": "H Hignell"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP3",
+   "slot": "10:00",
+   "name": "H Hignell"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP3",
+   "slot": "10:30",
+   "name": "H Hignell"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP3",
+   "slot": "11:00",
+   "name": "H Hignell"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP3",
+   "slot": "11:30",
+   "name": "H Hignell"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP3",
+   "slot": "12:30",
+   "name": "H Hignell"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP3",
+   "slot": "13:00",
+   "name": "H Hignell"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP3",
+   "slot": "13:30",
+   "name": "H Hignell"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP3",
+   "slot": "14:00",
+   "name": "H Hignell"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP3",
+   "slot": "14:30",
+   "name": "H Hignell"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP3",
+   "slot": "15:00",
+   "name": "H Hignell"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP4",
+   "slot": "08:00",
+   "name": "M Campbell"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP4",
+   "slot": "08:30",
+   "name": "M Campbell"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP4",
+   "slot": "09:00",
+   "name": "M Campbell"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP4",
+   "slot": "09:30",
+   "name": "M Campbell"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP4",
+   "slot": "10:00",
+   "name": "M Campbell"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP4",
+   "slot": "10:30",
+   "name": "M Campbell"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP4",
+   "slot": "11:00",
+   "name": "M Campbell"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP4",
+   "slot": "11:30",
+   "name": "M Campbell"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP4",
+   "slot": "12:30",
+   "name": "S Holmes"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP4",
+   "slot": "13:00",
+   "name": "S Holmes"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP4",
+   "slot": "13:30",
+   "name": "S Holmes"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP4",
+   "slot": "14:00",
+   "name": "S Holmes"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP4",
+   "slot": "14:30",
+   "name": "S Holmes"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP4",
+   "slot": "15:00",
+   "name": "S Holmes"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP5",
+   "slot": "09:30",
+   "name": "V Lucas-Smith"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP5",
+   "slot": "10:00",
+   "name": "V Lucas-Smith"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP5",
+   "slot": "10:30",
+   "name": "V Lucas-Smith"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP5",
+   "slot": "11:00",
+   "name": "V Lucas-Smith"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP5",
+   "slot": "11:30",
+   "name": "V Lucas-Smith"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP5",
+   "slot": "12:30",
+   "name": "M Campbell"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP5",
+   "slot": "13:00",
+   "name": "M Campbell"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP5",
+   "slot": "13:30",
+   "name": "M Campbell"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP5",
+   "slot": "14:00",
+   "name": "V Lucas-Smith"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP5",
+   "slot": "14:30",
+   "name": "V Lucas-Smith"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP5",
+   "slot": "15:00",
+   "name": "V Lucas-Smith"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP6",
+   "slot": "08:00",
+   "name": "A O'Sullivan"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP6",
+   "slot": "08:30",
+   "name": "A O'Sullivan"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP6",
+   "slot": "09:00",
+   "name": "A O'Sullivan"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP6",
+   "slot": "09:30",
+   "name": "A O'Sullivan"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP6",
+   "slot": "10:00",
+   "name": "A O'Sullivan"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP6",
+   "slot": "10:30",
+   "name": "A O'Sullivan"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP6",
+   "slot": "11:00",
+   "name": "A O'Sullivan"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP6",
+   "slot": "11:30",
+   "name": "A O'Sullivan"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP6",
+   "slot": "12:30",
+   "name": "A O'Sullivan"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP6",
+   "slot": "13:00",
+   "name": "A O'Sullivan"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP6",
+   "slot": "13:30",
+   "name": "A O'Sullivan"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP6",
+   "slot": "14:00",
+   "name": "A O'Sullivan"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP6",
+   "slot": "14:30",
+   "name": "A O'Sullivan"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP6",
+   "slot": "15:00",
+   "name": "A O'Sullivan"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP7",
+   "slot": "08:00",
+   "name": "A Pollock"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP7",
+   "slot": "08:30",
+   "name": "A Pollock"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP7",
+   "slot": "09:00",
+   "name": "A Pollock"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP7",
+   "slot": "09:30",
+   "name": "A Pollock"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP7",
+   "slot": "10:00",
+   "name": "A Pollock"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP7",
+   "slot": "10:30",
+   "name": "A Pollock"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP7",
+   "slot": "11:00",
+   "name": "A Pollock"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP7",
+   "slot": "11:30",
+   "name": "A Pollock"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP7",
+   "slot": "12:30",
+   "name": "A Pollock"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP7",
+   "slot": "13:00",
+   "name": "J Hall/A Pollock"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP7",
+   "slot": "13:30",
+   "name": "J Hall/A Pollock"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP7",
+   "slot": "14:00",
+   "name": "J Hall/A Pollock"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP7",
+   "slot": "14:30",
+   "name": "A Pollock"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP7",
+   "slot": "15:00",
+   "name": "A Pollock"
+  }
+ ],
+ "template": [
+  {
+   "day": "MON",
+   "room": "JS MP1",
+   "slot": "09:00",
+   "name": "L Linley"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP1",
+   "slot": "09:30",
+   "name": "L Linley"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP1",
+   "slot": "10:00",
+   "name": "L Linley"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP1",
+   "slot": "10:30",
+   "name": "L Linley"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP1",
+   "slot": "11:00",
+   "name": "L Linley"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP1",
+   "slot": "11:30",
+   "name": "L Linley"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP1",
+   "slot": "12:30",
+   "name": "D Bailey"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP1",
+   "slot": "13:00",
+   "name": "D Bailey"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP1",
+   "slot": "13:30",
+   "name": "D Bailey"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP1",
+   "slot": "14:00",
+   "name": "D Bailey"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP1",
+   "slot": "14:30",
+   "name": "D Bailey"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP1",
+   "slot": "15:00",
+   "name": "D Bailey"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP2",
+   "slot": "08:00",
+   "name": "Z Ashcroft"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP2",
+   "slot": "08:30",
+   "name": "Z Ashcroft"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP2",
+   "slot": "09:00",
+   "name": "Z Ashcroft"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP2",
+   "slot": "09:30",
+   "name": "Z Ashcroft"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP2",
+   "slot": "10:00",
+   "name": "Z Ashcroft"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP2",
+   "slot": "10:30",
+   "name": "Z Ashcroft"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP2",
+   "slot": "11:00",
+   "name": "Z Ashcroft"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP2",
+   "slot": "11:30",
+   "name": "Z Ashcroft"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP2",
+   "slot": "12:30",
+   "name": "Z Ashcroft"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP2",
+   "slot": "13:00",
+   "name": "Z Ashcroft"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP2",
+   "slot": "13:30",
+   "name": "Z Ashcroft"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP2",
+   "slot": "14:00",
+   "name": "Z Ashcroft"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP2",
+   "slot": "14:30",
+   "name": "Z Ashcroft"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP2",
+   "slot": "15:00",
+   "name": "Z Ashcroft"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP3",
+   "slot": "08:00",
+   "name": "S Thompson"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP3",
+   "slot": "08:30",
+   "name": "S Thompson"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP3",
+   "slot": "09:00",
+   "name": "S Thompson"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP3",
+   "slot": "09:30",
+   "name": "S Thompson"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP3",
+   "slot": "10:00",
+   "name": "S Thompson"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP3",
+   "slot": "10:30",
+   "name": "S Thompson"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP3",
+   "slot": "11:00",
+   "name": "S Thompson"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP3",
+   "slot": "11:30",
+   "name": "S Thompson"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP3",
+   "slot": "12:30",
+   "name": "S Thompson"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP3",
+   "slot": "13:00",
+   "name": "S Thompson"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP3",
+   "slot": "13:30",
+   "name": "S Thompson"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP3",
+   "slot": "14:00",
+   "name": "S Thompson"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP3",
+   "slot": "14:30",
+   "name": "S Thompson"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP3",
+   "slot": "15:00",
+   "name": "S Thompson"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP4",
+   "slot": "08:00",
+   "name": "R Cohen"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP4",
+   "slot": "08:30",
+   "name": "R Cohen"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP4",
+   "slot": "09:00",
+   "name": "R Cohen"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP4",
+   "slot": "09:30",
+   "name": "R Cohen"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP4",
+   "slot": "10:00",
+   "name": "R Cohen"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP4",
+   "slot": "10:30",
+   "name": "R Cohen"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP4",
+   "slot": "11:00",
+   "name": "R Cohen"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP4",
+   "slot": "11:30",
+   "name": "R Cohen"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP4",
+   "slot": "12:30",
+   "name": "T Wells"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP4",
+   "slot": "13:00",
+   "name": "T Wells"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP4",
+   "slot": "13:30",
+   "name": "T Wells"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP4",
+   "slot": "14:00",
+   "name": "T Wells"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP4",
+   "slot": "14:30",
+   "name": "T Wells"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP4",
+   "slot": "15:00",
+   "name": "T Wells"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP5",
+   "slot": "08:00",
+   "name": "Harp Practice"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP5",
+   "slot": "08:30",
+   "name": "Harp Practice"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP6",
+   "slot": "08:00",
+   "name": "Dble Bass Practice"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP6",
+   "slot": "08:30",
+   "name": "Dble Bass Practice"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP6",
+   "slot": "09:00",
+   "name": "T Wells"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP6",
+   "slot": "09:30",
+   "name": "T Wells"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP6",
+   "slot": "10:00",
+   "name": "T Wells"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP6",
+   "slot": "10:30",
+   "name": "T Wells"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP6",
+   "slot": "11:00",
+   "name": "T Wells"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP6",
+   "slot": "11:30",
+   "name": "T Wells"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP7",
+   "slot": "08:00",
+   "name": "J Hall"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP7",
+   "slot": "08:30",
+   "name": "J Hall"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP7",
+   "slot": "09:00",
+   "name": "J Hall"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP7",
+   "slot": "09:30",
+   "name": "J Hall"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP7",
+   "slot": "10:00",
+   "name": "J Hall"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP7",
+   "slot": "12:30",
+   "name": "J Hancher"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP7",
+   "slot": "13:00",
+   "name": "L Bode"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP7",
+   "slot": "13:30",
+   "name": "L Bode"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP7",
+   "slot": "14:00",
+   "name": "L Bode"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP7",
+   "slot": "14:30",
+   "name": "L Bode"
+  },
+  {
+   "day": "MON",
+   "room": "JS MP7",
+   "slot": "15:00",
+   "name": "L Bode"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP1",
+   "slot": "09:00",
+   "name": "D Bailey"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP1",
+   "slot": "09:30",
+   "name": "D Bailey"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP1",
+   "slot": "10:00",
+   "name": "D Bailey"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP1",
+   "slot": "10:30",
+   "name": "D Bailey"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP1",
+   "slot": "11:00",
+   "name": "D Bailey"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP1",
+   "slot": "11:30",
+   "name": "D Bailey"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP1",
+   "slot": "12:30",
+   "name": "D Bailey"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP1",
+   "slot": "13:00",
+   "name": "D Bailey"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP1",
+   "slot": "13:30",
+   "name": "D Bailey"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP1",
+   "slot": "14:00",
+   "name": "D Bailey"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP1",
+   "slot": "14:30",
+   "name": "D Bailey"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP1",
+   "slot": "15:00",
+   "name": "D Bailey"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP2",
+   "slot": "08:00",
+   "name": "M Croston"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP2",
+   "slot": "08:30",
+   "name": "M Croston"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP2",
+   "slot": "09:00",
+   "name": "M Croston"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP2",
+   "slot": "09:30",
+   "name": "M Croston"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP2",
+   "slot": "10:00",
+   "name": "M Croston"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP2",
+   "slot": "10:30",
+   "name": "M Croston"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP2",
+   "slot": "11:00",
+   "name": "M Croston"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP2",
+   "slot": "11:30",
+   "name": "M Croston"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP2",
+   "slot": "12:30",
+   "name": "M Croston"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP2",
+   "slot": "13:00",
+   "name": "M Croston"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP2",
+   "slot": "13:30",
+   "name": "M Croston"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP2",
+   "slot": "14:00",
+   "name": "M Croston"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP2",
+   "slot": "14:30",
+   "name": "M Croston"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP2",
+   "slot": "15:00",
+   "name": "M Croston"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP3",
+   "slot": "09:00",
+   "name": "T Wells"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP3",
+   "slot": "09:30",
+   "name": "T Wells"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP3",
+   "slot": "10:00",
+   "name": "T Wells"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP3",
+   "slot": "10:30",
+   "name": "T Wells"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP3",
+   "slot": "11:00",
+   "name": "T Wells"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP3",
+   "slot": "11:30",
+   "name": "T Wells"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP3",
+   "slot": "12:30",
+   "name": "L Vincent"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP3",
+   "slot": "13:00",
+   "name": "L Vincent"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP3",
+   "slot": "13:30",
+   "name": "L Vincent"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP3",
+   "slot": "14:00",
+   "name": "L Vincent"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP3",
+   "slot": "14:30",
+   "name": "L Vincent"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP3",
+   "slot": "15:00",
+   "name": "L Vincent"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP4",
+   "slot": "08:00",
+   "name": "N Peters"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP4",
+   "slot": "08:30",
+   "name": "N Peters"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP4",
+   "slot": "09:00",
+   "name": "N Peters"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP4",
+   "slot": "09:30",
+   "name": "N Peters"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP4",
+   "slot": "10:00",
+   "name": "N Peters"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP4",
+   "slot": "10:30",
+   "name": "N Peters"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP4",
+   "slot": "11:00",
+   "name": "N Peters"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP4",
+   "slot": "11:30",
+   "name": "N Peters"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP4",
+   "slot": "12:30",
+   "name": "N Peters"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP4",
+   "slot": "13:00",
+   "name": "N Peters"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP4",
+   "slot": "13:30",
+   "name": "N Peters"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP4",
+   "slot": "14:00",
+   "name": "N Peters"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP4",
+   "slot": "14:30",
+   "name": "N Peters"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP4",
+   "slot": "15:00",
+   "name": "N Peters"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP5",
+   "slot": "08:00",
+   "name": "A Pollock"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP5",
+   "slot": "08:30",
+   "name": "A Pollock"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP5",
+   "slot": "09:00",
+   "name": "A Pollock/S Beck"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP5",
+   "slot": "09:30",
+   "name": "A Pollock/S Beck"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP5",
+   "slot": "10:00",
+   "name": "A Pollock/S Beck"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP5",
+   "slot": "10:30",
+   "name": "A Pollock/S Beck"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP5",
+   "slot": "11:00",
+   "name": "A Pollock/S Beck"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP5",
+   "slot": "11:30",
+   "name": "A Pollock/S Beck"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP5",
+   "slot": "12:30",
+   "name": "S Beck"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP5",
+   "slot": "13:00",
+   "name": "S Beck"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP5",
+   "slot": "13:30",
+   "name": "S Beck"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP5",
+   "slot": "14:00",
+   "name": "S Beck"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP5",
+   "slot": "14:30",
+   "name": "S Beck"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP5",
+   "slot": "15:00",
+   "name": "S Beck"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP6",
+   "slot": "09:00",
+   "name": "J O'Leary"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP6",
+   "slot": "09:30",
+   "name": "J O'Leary"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP6",
+   "slot": "10:00",
+   "name": "J O'Leary"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP6",
+   "slot": "10:30",
+   "name": "J O'Leary"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP6",
+   "slot": "11:00",
+   "name": "J O'Leary"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP6",
+   "slot": "11:30",
+   "name": "J O'Leary"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP6",
+   "slot": "12:30",
+   "name": "Z Ashcroft"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP6",
+   "slot": "13:00",
+   "name": "Z Ashcroft"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP6",
+   "slot": "13:30",
+   "name": "J O'Leary"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP6",
+   "slot": "14:00",
+   "name": "J O'Leary"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP6",
+   "slot": "14:30",
+   "name": "J O'Leary"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP6",
+   "slot": "15:00",
+   "name": "J O'Leary"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP7",
+   "slot": "08:00",
+   "name": "Z Ashcroft"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP7",
+   "slot": "08:30",
+   "name": "Z Ashcroft"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP7",
+   "slot": "09:00",
+   "name": "Z Ashcroft"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP7",
+   "slot": "09:30",
+   "name": "Z Ashcroft"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP7",
+   "slot": "10:00",
+   "name": "Z Ashcroft"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP7",
+   "slot": "10:30",
+   "name": "Z Ashcroft"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP7",
+   "slot": "11:00",
+   "name": "Z Ashcroft"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP7",
+   "slot": "11:30",
+   "name": "Z Ashcroft"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP7",
+   "slot": "14:30",
+   "name": "Z Ashcroft"
+  },
+  {
+   "day": "TUE",
+   "room": "JS MP7",
+   "slot": "15:00",
+   "name": "Z Ashcroft"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP1",
+   "slot": "08:00",
+   "name": "F Di Bari"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP1",
+   "slot": "08:30",
+   "name": "F Di Bari"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP1",
+   "slot": "09:00",
+   "name": "F Di Bari"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP1",
+   "slot": "09:30",
+   "name": "F Di Bari"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP1",
+   "slot": "10:00",
+   "name": "F Di Bari"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP1",
+   "slot": "10:30",
+   "name": "F Di Bari"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP1",
+   "slot": "11:00",
+   "name": "F Di Bari"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP1",
+   "slot": "11:30",
+   "name": "F Di Bari"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP1",
+   "slot": "12:30",
+   "name": "D James"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP1",
+   "slot": "13:00",
+   "name": "D James"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP1",
+   "slot": "13:30",
+   "name": "D James"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP1",
+   "slot": "14:00",
+   "name": "D James"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP1",
+   "slot": "14:30",
+   "name": "D James"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP1",
+   "slot": "15:00",
+   "name": "D James"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP2",
+   "slot": "08:00",
+   "name": "S Holmes"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP2",
+   "slot": "08:30",
+   "name": "S Holmes"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP2",
+   "slot": "09:00",
+   "name": "S Holmes"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP2",
+   "slot": "09:30",
+   "name": "S Holmes"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP2",
+   "slot": "10:00",
+   "name": "S Holmes"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP2",
+   "slot": "10:30",
+   "name": "S Holmes"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP2",
+   "slot": "11:00",
+   "name": "S Holmes"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP2",
+   "slot": "11:30",
+   "name": "S Holmes"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP2",
+   "slot": "12:30",
+   "name": "S Holmes"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP2",
+   "slot": "13:00",
+   "name": "S Holmes"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP2",
+   "slot": "13:30",
+   "name": "S Holmes"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP2",
+   "slot": "14:00",
+   "name": "S Holmes"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP2",
+   "slot": "14:30",
+   "name": "F Di Bari"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP2",
+   "slot": "15:00",
+   "name": "F Di Bari"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP3",
+   "slot": "09:00",
+   "name": "S Thompson"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP3",
+   "slot": "09:30",
+   "name": "S Thompson"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP3",
+   "slot": "10:00",
+   "name": "S Thompson"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP3",
+   "slot": "10:30",
+   "name": "S Thompson"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP3",
+   "slot": "11:00",
+   "name": "S Thompson"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP3",
+   "slot": "11:30",
+   "name": "S Thompson"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP3",
+   "slot": "12:30",
+   "name": "S Thompson"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP3",
+   "slot": "13:00",
+   "name": "S Thompson"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP3",
+   "slot": "13:30",
+   "name": "S Thompson"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP3",
+   "slot": "14:00",
+   "name": "S Thompson"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP3",
+   "slot": "14:30",
+   "name": "S Thompson"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP3",
+   "slot": "15:00",
+   "name": "S Thompson"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP4",
+   "slot": "09:00",
+   "name": "J Brits"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP4",
+   "slot": "09:30",
+   "name": "J Brits"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP4",
+   "slot": "10:00",
+   "name": "J Brits"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP4",
+   "slot": "10:30",
+   "name": "J Brits"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP4",
+   "slot": "11:00",
+   "name": "J Brits"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP4",
+   "slot": "11:30",
+   "name": "J Brits"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP4",
+   "slot": "12:30",
+   "name": "J Brits"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP4",
+   "slot": "13:00",
+   "name": "J Brits"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP4",
+   "slot": "13:30",
+   "name": "J Brits"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP4",
+   "slot": "14:00",
+   "name": "J Brits"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP4",
+   "slot": "14:30",
+   "name": "S Holmes"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP4",
+   "slot": "15:00",
+   "name": "S Holmes"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP5",
+   "slot": "08:00",
+   "name": "H Hignell"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP5",
+   "slot": "08:30",
+   "name": "H Hignell"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP5",
+   "slot": "09:00",
+   "name": "H Hignell"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP5",
+   "slot": "09:30",
+   "name": "H Hignell"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP5",
+   "slot": "10:00",
+   "name": "H Hignell"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP5",
+   "slot": "10:30",
+   "name": "H Hignell"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP5",
+   "slot": "11:00",
+   "name": "H Hignell"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP5",
+   "slot": "11:30",
+   "name": "H Hignell"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP5",
+   "slot": "12:30",
+   "name": "A Lazenby"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP5",
+   "slot": "13:00",
+   "name": "A Lazenby"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP5",
+   "slot": "13:30",
+   "name": "A Lazenby"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP5",
+   "slot": "14:00",
+   "name": "A Lazenby"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP6",
+   "slot": "08:00",
+   "name": "A Lazenby"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP6",
+   "slot": "08:30",
+   "name": "A Lazenby"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP6",
+   "slot": "09:00",
+   "name": "A Lazenby"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP6",
+   "slot": "09:30",
+   "name": "A Lazenby"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP6",
+   "slot": "10:00",
+   "name": "A Lazenby"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP6",
+   "slot": "10:30",
+   "name": "A O'Sullivan"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP6",
+   "slot": "11:00",
+   "name": "A O'Sullivan"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP6",
+   "slot": "11:30",
+   "name": "A O'Sullivan"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP6",
+   "slot": "12:30",
+   "name": "A O'Sullivan"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP6",
+   "slot": "13:00",
+   "name": "A O'Sullivan"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP6",
+   "slot": "13:30",
+   "name": "A O'Sullivan"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP6",
+   "slot": "14:00",
+   "name": "A O'Sullivan"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP6",
+   "slot": "14:30",
+   "name": "A O'Sullivan"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP6",
+   "slot": "15:00",
+   "name": "A O'Sullivan"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP7",
+   "slot": "08:30",
+   "name": "H Evans"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP7",
+   "slot": "09:00",
+   "name": "H Evans"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP7",
+   "slot": "09:30",
+   "name": "H Evans"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP7",
+   "slot": "10:00",
+   "name": "H Evans"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP7",
+   "slot": "10:30",
+   "name": "H Evans"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP7",
+   "slot": "11:00",
+   "name": "H Evans"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP7",
+   "slot": "11:30",
+   "name": "H Evans"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP7",
+   "slot": "12:30",
+   "name": "H Evans"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP7",
+   "slot": "13:00",
+   "name": "H Evans"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP7",
+   "slot": "13:30",
+   "name": "H Evans"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP7",
+   "slot": "14:00",
+   "name": "H Evans"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP7",
+   "slot": "14:30",
+   "name": "H Evans"
+  },
+  {
+   "day": "WED",
+   "room": "JS MP7",
+   "slot": "15:00",
+   "name": "H Evans"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP1",
+   "slot": "08:00",
+   "name": "S Jones"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP1",
+   "slot": "08:30",
+   "name": "S Jones"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP1",
+   "slot": "09:00",
+   "name": "S Jones"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP1",
+   "slot": "09:30",
+   "name": "S Jones"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP1",
+   "slot": "10:00",
+   "name": "S Jones"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP1",
+   "slot": "10:30",
+   "name": "S Jones"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP1",
+   "slot": "11:00",
+   "name": "S Jones"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP1",
+   "slot": "11:30",
+   "name": "S Jones"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP1",
+   "slot": "12:30",
+   "name": "S Jones"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP1",
+   "slot": "13:00",
+   "name": "S Jones"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP1",
+   "slot": "13:30",
+   "name": "S Jones"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP1",
+   "slot": "14:00",
+   "name": "S Jones"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP1",
+   "slot": "14:30",
+   "name": "S Jones"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP1",
+   "slot": "15:00",
+   "name": "S Jones"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP2",
+   "slot": "08:00",
+   "name": "F Di Bari"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP2",
+   "slot": "08:30",
+   "name": "F Di Bari"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP2",
+   "slot": "09:00",
+   "name": "F Di Bari"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP2",
+   "slot": "09:30",
+   "name": "F Di Bari"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP2",
+   "slot": "10:00",
+   "name": "F Di Bari"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP2",
+   "slot": "10:30",
+   "name": "F Di Bari"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP2",
+   "slot": "11:00",
+   "name": "F Di Bari"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP2",
+   "slot": "11:30",
+   "name": "F Di Bari"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP2",
+   "slot": "12:30",
+   "name": "J Kreling"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP2",
+   "slot": "13:00",
+   "name": "J Kreling"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP2",
+   "slot": "13:30",
+   "name": "J Kreling"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP2",
+   "slot": "14:00",
+   "name": "J Kreling"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP2",
+   "slot": "14:30",
+   "name": "J Kreling"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP2",
+   "slot": "15:00",
+   "name": "J Kreling"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP3",
+   "slot": "08:30",
+   "name": "M Wyllie"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP3",
+   "slot": "09:00",
+   "name": "M Wyllie"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP3",
+   "slot": "09:30",
+   "name": "M Wyllie"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP3",
+   "slot": "10:00",
+   "name": "J Hancher"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP3",
+   "slot": "10:30",
+   "name": "J Hancher"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP3",
+   "slot": "11:00",
+   "name": "J Hancher"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP3",
+   "slot": "11:30",
+   "name": "J Hancher"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP3",
+   "slot": "12:30",
+   "name": "J Hancher"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP3",
+   "slot": "13:00",
+   "name": "J Hancher"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP3",
+   "slot": "13:30",
+   "name": "J Hancher"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP3",
+   "slot": "14:00",
+   "name": "J Hancher"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP3",
+   "slot": "14:30",
+   "name": "J Hancher"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP3",
+   "slot": "15:00",
+   "name": "J Hancher"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP4",
+   "slot": "08:00",
+   "name": "D Black"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP4",
+   "slot": "08:30",
+   "name": "D Black"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP4",
+   "slot": "09:00",
+   "name": "D Black"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP4",
+   "slot": "09:30",
+   "name": "D Black"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP4",
+   "slot": "10:00",
+   "name": "D Black"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP4",
+   "slot": "10:30",
+   "name": "D Black"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP4",
+   "slot": "11:00",
+   "name": "D Black"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP4",
+   "slot": "11:30",
+   "name": "D Black"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP4",
+   "slot": "12:30",
+   "name": "D Black"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP4",
+   "slot": "13:00",
+   "name": "D Black"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP4",
+   "slot": "13:30",
+   "name": "D Black"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP4",
+   "slot": "14:00",
+   "name": "D Black"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP4",
+   "slot": "14:30",
+   "name": "D Black"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP4",
+   "slot": "15:00",
+   "name": "D Black"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP5",
+   "slot": "09:30",
+   "name": "V Lucas-Smith"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP5",
+   "slot": "10:00",
+   "name": "V Lucas-Smith"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP5",
+   "slot": "10:30",
+   "name": "V Lucas-Smith"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP5",
+   "slot": "11:00",
+   "name": "V Lucas-Smith"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP5",
+   "slot": "11:30",
+   "name": "V Lucas-Smith"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP5",
+   "slot": "13:30",
+   "name": "V Lucas-Smith"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP5",
+   "slot": "14:00",
+   "name": "V Lucas-Smith"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP5",
+   "slot": "14:30",
+   "name": "E Keventsidou"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP6",
+   "slot": "08:00",
+   "name": "J Hall"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP6",
+   "slot": "08:30",
+   "name": "J Hall"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP6",
+   "slot": "09:00",
+   "name": "J Hall"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP6",
+   "slot": "09:30",
+   "name": "J O'Leary"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP6",
+   "slot": "10:00",
+   "name": "J O'Leary"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP6",
+   "slot": "10:30",
+   "name": "J O'Leary"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP6",
+   "slot": "11:00",
+   "name": "J O'Leary"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP6",
+   "slot": "11:30",
+   "name": "J O'Leary"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP6",
+   "slot": "12:30",
+   "name": "E Keventsidou"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP6",
+   "slot": "13:00",
+   "name": "E Keventsidou"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP6",
+   "slot": "13:30",
+   "name": "E Keventsidou"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP6",
+   "slot": "14:00",
+   "name": "J O'Leary"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP6",
+   "slot": "14:30",
+   "name": "J O'Leary"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP6",
+   "slot": "15:00",
+   "name": "J O'Leary"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP7",
+   "slot": "08:30",
+   "name": "J Kreling"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP7",
+   "slot": "09:00",
+   "name": "J Kreling"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP7",
+   "slot": "09:30",
+   "name": "J Kreling"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP7",
+   "slot": "10:00",
+   "name": "J Kreling"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP7",
+   "slot": "10:30",
+   "name": "J Kreling"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP7",
+   "slot": "11:00",
+   "name": "J Kreling"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP7",
+   "slot": "11:30",
+   "name": "J Kreling"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP7",
+   "slot": "12:30",
+   "name": "F Di Bari"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP7",
+   "slot": "13:00",
+   "name": "F Di Bari"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP7",
+   "slot": "13:30",
+   "name": "F Di Bari"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP7",
+   "slot": "14:00",
+   "name": "F Di Bari"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP7",
+   "slot": "14:30",
+   "name": "F Di Bari"
+  },
+  {
+   "day": "THU",
+   "room": "JS MP7",
+   "slot": "15:00",
+   "name": "F Di Bari"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP1",
+   "slot": "08:00",
+   "name": "M Wyllie"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP1",
+   "slot": "08:30",
+   "name": "M Wyllie"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP1",
+   "slot": "09:00",
+   "name": "M Wyllie"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP1",
+   "slot": "09:30",
+   "name": "M Wyllie"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP1",
+   "slot": "10:00",
+   "name": "M Wyllie"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP1",
+   "slot": "10:30",
+   "name": "M Wyllie"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP1",
+   "slot": "11:00",
+   "name": "M Wyllie"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP1",
+   "slot": "11:30",
+   "name": "M Wyllie"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP1",
+   "slot": "12:30",
+   "name": "M Wyllie"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP1",
+   "slot": "13:00",
+   "name": "M Wyllie"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP1",
+   "slot": "13:30",
+   "name": "M Wyllie"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP1",
+   "slot": "14:00",
+   "name": "M Wyllie"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP1",
+   "slot": "14:30",
+   "name": "M Wyllie"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP1",
+   "slot": "15:00",
+   "name": "M Wyllie"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP2",
+   "slot": "08:00",
+   "name": "N Peters"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP2",
+   "slot": "08:30",
+   "name": "N Peters"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP2",
+   "slot": "09:00",
+   "name": "N Peters"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP2",
+   "slot": "09:30",
+   "name": "N Peters"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP2",
+   "slot": "10:00",
+   "name": "N Peters"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP2",
+   "slot": "10:30",
+   "name": "N Peters"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP2",
+   "slot": "11:00",
+   "name": "N Peters"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP2",
+   "slot": "11:30",
+   "name": "N Peters"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP2",
+   "slot": "12:30",
+   "name": "N Peters"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP2",
+   "slot": "13:00",
+   "name": "N Peters"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP2",
+   "slot": "13:30",
+   "name": "N Peters"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP2",
+   "slot": "14:00",
+   "name": "N Peters"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP2",
+   "slot": "14:30",
+   "name": "N Peters"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP2",
+   "slot": "15:00",
+   "name": "N Peters"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP3",
+   "slot": "08:00",
+   "name": "H Hignell"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP3",
+   "slot": "08:30",
+   "name": "H Hignell"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP3",
+   "slot": "09:00",
+   "name": "H Hignell"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP3",
+   "slot": "09:30",
+   "name": "H Hignell"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP3",
+   "slot": "10:00",
+   "name": "H Hignell"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP3",
+   "slot": "10:30",
+   "name": "H Hignell"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP3",
+   "slot": "11:00",
+   "name": "H Hignell"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP3",
+   "slot": "11:30",
+   "name": "H Hignell"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP3",
+   "slot": "12:30",
+   "name": "H Hignell"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP3",
+   "slot": "13:00",
+   "name": "H Hignell"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP3",
+   "slot": "13:30",
+   "name": "H Hignell"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP3",
+   "slot": "14:00",
+   "name": "H Hignell"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP3",
+   "slot": "14:30",
+   "name": "H Hignell"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP3",
+   "slot": "15:00",
+   "name": "H Hignell"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP4",
+   "slot": "08:00",
+   "name": "M Campbell"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP4",
+   "slot": "08:30",
+   "name": "M Campbell"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP4",
+   "slot": "09:00",
+   "name": "M Campbell"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP4",
+   "slot": "09:30",
+   "name": "M Campbell"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP4",
+   "slot": "10:00",
+   "name": "M Campbell"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP4",
+   "slot": "10:30",
+   "name": "M Campbell"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP4",
+   "slot": "11:00",
+   "name": "M Campbell"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP4",
+   "slot": "11:30",
+   "name": "M Campbell"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP4",
+   "slot": "12:30",
+   "name": "S Holmes"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP4",
+   "slot": "13:00",
+   "name": "S Holmes"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP4",
+   "slot": "13:30",
+   "name": "S Holmes"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP4",
+   "slot": "14:00",
+   "name": "S Holmes"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP4",
+   "slot": "14:30",
+   "name": "S Holmes"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP4",
+   "slot": "15:00",
+   "name": "S Holmes"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP5",
+   "slot": "09:30",
+   "name": "V Lucas-Smith"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP5",
+   "slot": "10:00",
+   "name": "V Lucas-Smith"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP5",
+   "slot": "10:30",
+   "name": "V Lucas-Smith"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP5",
+   "slot": "11:00",
+   "name": "V Lucas-Smith"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP5",
+   "slot": "11:30",
+   "name": "V Lucas-Smith"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP5",
+   "slot": "12:30",
+   "name": "M Campbell"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP5",
+   "slot": "13:00",
+   "name": "M Campbell"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP5",
+   "slot": "13:30",
+   "name": "M Campbell"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP5",
+   "slot": "14:00",
+   "name": "V Lucas-Smith"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP5",
+   "slot": "14:30",
+   "name": "V Lucas-Smith"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP5",
+   "slot": "15:00",
+   "name": "V Lucas-Smith"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP6",
+   "slot": "08:00",
+   "name": "A O'Sullivan"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP6",
+   "slot": "08:30",
+   "name": "A O'Sullivan"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP6",
+   "slot": "09:00",
+   "name": "A O'Sullivan"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP6",
+   "slot": "09:30",
+   "name": "A O'Sullivan"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP6",
+   "slot": "10:00",
+   "name": "A O'Sullivan"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP6",
+   "slot": "10:30",
+   "name": "A O'Sullivan"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP6",
+   "slot": "11:00",
+   "name": "A O'Sullivan"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP6",
+   "slot": "11:30",
+   "name": "A O'Sullivan"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP6",
+   "slot": "12:30",
+   "name": "A O'Sullivan"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP6",
+   "slot": "13:00",
+   "name": "A O'Sullivan"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP6",
+   "slot": "13:30",
+   "name": "A O'Sullivan"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP6",
+   "slot": "14:00",
+   "name": "A O'Sullivan"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP6",
+   "slot": "14:30",
+   "name": "A O'Sullivan"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP6",
+   "slot": "15:00",
+   "name": "A O'Sullivan"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP7",
+   "slot": "08:00",
+   "name": "A Pollock"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP7",
+   "slot": "08:30",
+   "name": "A Pollock"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP7",
+   "slot": "09:00",
+   "name": "A Pollock"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP7",
+   "slot": "09:30",
+   "name": "A Pollock"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP7",
+   "slot": "10:00",
+   "name": "A Pollock"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP7",
+   "slot": "10:30",
+   "name": "A Pollock"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP7",
+   "slot": "11:00",
+   "name": "A Pollock"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP7",
+   "slot": "11:30",
+   "name": "A Pollock"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP7",
+   "slot": "12:30",
+   "name": "A Pollock"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP7",
+   "slot": "13:00",
+   "name": "J Hall/A Pollock"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP7",
+   "slot": "13:30",
+   "name": "J Hall/A Pollock"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP7",
+   "slot": "14:00",
+   "name": "J Hall/A Pollock"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP7",
+   "slot": "14:30",
+   "name": "A Pollock"
+  },
+  {
+   "day": "FRI",
+   "room": "JS MP7",
+   "slot": "15:00",
+   "name": "A Pollock"
+  }
+ ],
+ "changeConflicts": [
+  "WED JS MP2 12:30: adding S Holmes overwrote JS PianoTrio 1",
+  "WED JS MP1 12:30: adding D James overwrote Z Ashcroft",
+  "THU JS MP6 09:00: adding J Hall overwrote J O'Leary"
+ ]
+}
