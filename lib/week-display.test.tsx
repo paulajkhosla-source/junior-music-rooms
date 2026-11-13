@@ -12,9 +12,15 @@ test('selected week banner shows the dated range and keeps a label secondary', (
   const html = renderToStaticMarkup(<WeekContext week={november} label="Concert week" />);
   assert.match(html, /SELECTED WEEK/);
   assert.match(html, /Monday 9 November – Friday 13 November 2026/);
-  assert.match(html, /Concert week/);
+  assert.match(html, /<p class="week-context-note">Concert week<\/p>/);
   assert.match(html, /week-context dated/);
   assert.equal(html.includes('Standard template'), false);
+});
+
+test('selected week banner omits a default-text label', () => {
+  const html = renderToStaticMarkup(<WeekContext week={november} label="Autumn: Week beginning Monday, 9 November 2026" />);
+  assert.match(html, /Monday 9 November – Friday 13 November 2026/);
+  assert.doesNotMatch(html, /week-context-note|Week beginning/);
 });
 
 test('regular rota banner has no calendar dates', () => {

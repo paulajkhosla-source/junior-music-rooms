@@ -1,11 +1,12 @@
 import { neon } from '@neondatabase/serverless';
 import { readFileSync } from 'node:fs';
 import seed from '../data/seed.json';
+import { splitSql } from './sql';
 if (!process.env.DATABASE_URL) throw new Error('DATABASE_URL is required');
 const sql = neon(process.env.DATABASE_URL);
 async function main() {
   const schema = readFileSync('db/schema.sql', 'utf8');
-  for (const statement of (schema.match(/CREATE OR REPLACE FUNCTION[\s\S]*?\$\$;|CREATE TABLE[\s\S]*?;/g) ?? [])) await sql.query(statement);
+  await sql.transaction(splitSql(schema).filter(s => !/^(BEGIN|COMMIT)$/i.test(s)).map(s => sql.query(s)));
   const initialized = await sql`SELECT 1 FROM audit_log WHERE action = 'seed' LIMIT 1`;
   const loadTemplate = !initialized.length || process.argv.includes('--reset-template');
   await sql.transaction([
