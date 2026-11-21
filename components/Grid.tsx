@@ -6,6 +6,8 @@ import WeekContext from '@/components/WeekContext';
 import { days, dayNames, rooms, slots, labels, lunchSlot, slotLabel, key, owns, type Cell } from '@/lib/constants';
 import { formatSelectedWeek } from '@/lib/dates';
 import type { Session } from '@/lib/auth';
+import { GENERIC_ERROR, type ActionResult } from '@/lib/action-result';
+import { singleFlight } from '@/lib/single-flight';
 
 function OfferPicker({blocks, count, dayText, initial=0}:{blocks:Cell[][]; count:number; dayText:(day:string)=>string; initial?:number}) {
   const [index,setIndex]=useState(initial), [from,setFrom]=useState(0), [through,setThrough]=useState(Math.min(count,blocks[initial].length)-1);
@@ -18,6 +20,8 @@ export default function Grid({ cells, session, week, teachers, initialDay, weekS
   const [selected, setSelected] = useState<Cell | null>(null);
   const [error, setError] = useState('');
   const [pending, start] = useTransition();
+  // `pending` is set inside a transition, so a fast second tap can arrive before the button is disabled. This guard is synchronous.
+  const [runOnce] = useState(singleFlight);
   const [swap, setSwap] = useState(false);
   const [adminTarget, setAdminTarget] = useState('');
   const [adminTeacher, setAdminTeacher] = useState('');
@@ -46,17 +50,22 @@ export default function Grid({ cells, session, week, teachers, initialDay, weekS
     observer.observe(sticky);
     return () => observer.disconnect();
   }, [weekStart, weekLabel, dated?.range]);
-  function submit(action: (form: FormData) => Promise<void>, form: FormData) {
-    setError('');
-    start(async () => {
-      try {
-        await action(form);
-        setSelected(null);
-        setSwap(false);
-      } catch (reason) {
-        setError(reason instanceof Error ? reason.message : 'Something went wrong. Please try again.');
-      }
-    });
+  function submit(action: (form: FormData) => Promise<ActionResult>, form: FormData) {
+    runOnce(() => new Promise<void>(done => {
+      setError('');
+      start(async () => {
+        try {
+          const result = await action(form);
+          if (result?.error) { setError(result.error); return; }
+          setSelected(null);
+          setSwap(false);
+        } catch {
+          setError(GENERIC_ERROR);
+        } finally {
+          done();
+        }
+      });
+    }));
   }
   return (
     <div className="timetable" ref={rootRef}>
