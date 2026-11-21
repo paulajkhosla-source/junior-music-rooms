@@ -125,9 +125,10 @@ export default function Grid({ cells, session, week, teachers, initialDay, weekS
         <details className="my-week">
           <summary>My week <span>{mine.length} bookings</span></summary>
           <p>Select the slots you no longer need, then release them together.</p>
-          <form action={form => submit(changeCells, form)}>
+          <form action={form => form.has('selected') ? submit(changeCells, form) : setError('Tick at least one slot to release.')}>
             <input type="hidden" name="week" value={week} />
             <input type="hidden" name="operation" value="release" />
+            <input type="hidden" name="bulk" value="1" />
             <div className="booking-list">
               {mine.map(cell => (
                 <label key={key(cell.day, cell.room, cell.slot)}>
